@@ -2,11 +2,12 @@
 Executes various UNIX commands
 
 ## Commands
-./program
-pwd
-cd 
-dirs
-pushd
-popd
-exit
+
+  ./program
+  pwd
+  cd 
+  dirs
+  pushd
+  popd
+  exit
 
