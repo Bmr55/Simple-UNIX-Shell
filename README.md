@@ -1,7 +1,7 @@
 # Simple-UNIX-Shell
 Executes various UNIX commands
 
-## Commands
+** Commands **
 
   ./program
   pwd
